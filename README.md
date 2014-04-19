@@ -13,4 +13,6 @@ traceroute.h/cpp是实现traceroute的主要功能代码.
 
 main.cpp写的一些测试函数.
 
+没有makefile，仅仅是命令：g++ -g -D_MY_TEST_  main.cpp socket_raw.cpp traceroute.cpp
+
 暂时存在的问题：由于第一次写，许多东西都不知道、不懂，所以仅仅是功能完成；调理不是特别清楚.
