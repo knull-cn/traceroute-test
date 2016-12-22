@@ -18,3 +18,5 @@ main.cpp写的一些测试函数.
 暂时存在的问题：由于第一次写，许多东西都不知道、不懂，所以仅仅是功能完成；调理不是特别清楚.
 test mege
 change on dev1
+//just for test git 
+dev2 changed
